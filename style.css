@@ -1,0 +1,70 @@
+
+.logo {
+    background: white;
+    height: 200px;
+    background-image: url(images/logo_SH.png);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.column {
+    display: flex;
+    height: 1400px;
+    width: 900px;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+
+
+.project1 {
+    
+    background-image: url(images/project1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 20px;
+    background-color: black;
+}
+
+.project2 {
+    background-image: url(images/project2.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 20px;
+    background-color: black;
+}
+
+.project3 {
+    background-image: url(images/project3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 20px;
+    background-color: black;
+}
+
+.text {
+    background: rgb(0,0,0,0.7);
+    width: 100%;
+    padding: 20px 40px;
+    color: white;
+  }
+  .text p {
+    color: rgba(255, 255, 255, 0.7);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .text h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
